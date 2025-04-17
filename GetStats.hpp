@@ -41,6 +41,7 @@ public:
         returnArray[0] = min;
         returnArray[1] = max;
         returnArray[2] = total / num;
+        return returnArray;
     }
     
 
